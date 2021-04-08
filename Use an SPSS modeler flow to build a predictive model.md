@@ -3,7 +3,7 @@ Create a ML model to recommend a drug based on lab measurements.
 
 ## Steps
 ### Creating a Watson Studio project
-1. Login to IBM CLoud.
+1. Login to [IBM Cloud](https://cloud.ibm.com/resources).
 2. Create an instance of the Watson Studio service.
 3. Open the Watson Studio service instance
 4. Create a new blanck Watson Studio project
@@ -12,7 +12,10 @@ Create a ML model to recommend a drug based on lab measurements.
 1. Download the sample data set from [DRUG1n.csv](https://github.com/IBMPredictiveAnalytics/ViolinPlots_with_Seaborn/blob/master/example/DRUG1n.cs) (right-click [DRUG1n.csv](https://raw.githubusercontent.com/IBMPredictiveAnalytics/ViolinPlots_with_Seaborn/master/example/DRUG1n.csv) then save as **.csv** file)
 2. Add DRUG1n.csv as a data asset in the project.
 3. Add a modeler flow to the Watson Studio project.
-4. From the *Palette*, under **Import**, add a **Data Asset** node to your flow.
+
+![Add a modeler flow](https://s3.us.cloud-object-storage.appdomain.cloud/developer/default/tutorials/watson-studio-spss-modeler-flow/images/add-modeler-flow.png)
+
+5. From the *Palette*, under **Import**, add a **Data Asset** node to your flow.
 
 ### Exploratory data analysis (EDA)
 1. Explore **Drug** with a **Distribution** node.
@@ -57,6 +60,6 @@ The ratio of sodium to potassium in the blood seems to affect the choice of drug
 8. Right-click the **Table** node, and then select **Save Branch as a Model**. When you save a model.
 
 ## References
-* [Tutorial: Using a predictive model from Watson Machine Learning with streaming patient data](https://www.ibm.com/docs/en/cloud-paks/cp-data/2.5.0?topic=manually-spss-model-operator)
+* [Tutorial: Using a predictive model from Watson Machine Learning with streaming patient data](https://www.ibm.com/docs/en/cloud-paks/cp-data/2.5.0?topic=manually-spss-model-operator) - IBM Cloud Pak for Data 2.5 documentation
 * [Creating SPSS Modeler flows in Watson Studio](https://developer.ibm.com/technologies/data-science/tutorials/watson-studio-spss-modeler-flow) - Graphically build and evaluate machine learning models
-* [Tutorial: Using a predictive model from Watson Machine Learning with streaming patient data](https://www.ibm.com/docs/en/cloud-paks/cp-data/2.5.0?topic=manually-spss-model-operator) - IBM Cloud Pak for Data 2.5.
+* [C5.0 Node](https://www.ibm.com/docs/en/spss-modeler/SaaS?topic=trees-c50-node) - SPSS Modeler documentation.
