@@ -39,6 +39,7 @@ The ratio of sodium to potassium in the blood seems to affect the choice of drug
 1. Add a **Type** node with **Drug** as **Target** and all other fields as **Inputs**.
 
 ![The Type node](https://www.ibm.com/docs/en/SSBFT6_1.1.0/wsd/images/tut_drug_build_flow2.png)
+
 2. Add a **Partition** node to splits the data set into a training set (70%) and a testing set (30%).
 4. Add a **C5.0** node to traing the model.
 5. **Run** the modeling node to create its model nugget.
@@ -50,7 +51,10 @@ The ratio of sodium to potassium in the blood seems to affect the choice of drug
 ![Analysis node](https://www.ibm.com/docs/en/SSBFT6_1.1.0/wsd/images/tut_drug_analysis.png)
 
 6. Add a **Table** node after the nugget to display predictions.
-7. Right-click the **Table** node, and then select **Save Branch as a Model**. When you save a model.
+
+![The branch to be saved as the model](https://www.ibm.com/docs/en/SSQNUZ_2.5.0/wsj/streaming-pipelines/images/model_flow_canvas.gif)
+
+8. Right-click the **Table** node, and then select **Save Branch as a Model**. When you save a model.
 
 ## References
 * [Tutorial: Using a predictive model from Watson Machine Learning with streaming patient data](https://www.ibm.com/docs/en/cloud-paks/cp-data/2.5.0?topic=manually-spss-model-operator)
