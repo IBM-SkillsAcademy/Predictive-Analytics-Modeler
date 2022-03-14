@@ -31,7 +31,7 @@ Reference: [Field Operations Nodes](https://www.ibm.com/support/knowledgecenter/
 | --- | :--- | :---------- |
 | ![Binning](https://www.ibm.com/support/knowledgecenter/SS3RA7_18.2.1/modeler_mainhelp_client_ddita/clementine/images/binningnodeicon.jpg) | Binning | Recodes a continuous field into a nominal field. |
 | ![Derive](https://www.ibm.com/support/knowledgecenter/SS3RA7_18.2.1/modeler_mainhelp_client_ddita/clementine/images/derive_node_icon.jpg) | Derive | Creates one or more fields from one or more fields. Creates field(s) as: formula, flag, nominal, state, count, and conditional. |
-| ![Filler](https://www.ibm.com/support/knowledgecenter/SS3RA7_18.2.1/modeler_mainhelp_client_ddita/clementine/images/fillernodeicon.jpg) | Filler | Replaces field values and changes storage. You can replace values based on: a CLEM condition, or to replace all blanks or null values with a specific value. |
+| ![Filler](https://www.ibm.com/docs/en/SS3RA7_18.3.0/modeler_mainhelp_client_ddita/clementine/images/fillernodeicon.jpg) | Filler | Replaces field values and changes storage. You can replace values based on: a CLEM condition, or to replace all blanks or null values with a specific value. |
 | ![Filter](https://www.ibm.com/support/knowledgecenter/SS3RA7_18.2.1/modeler_mainhelp_client_ddita/clementine/images/filternodeicon.jpg) | Filter | Removes and rename fields. |
 | ![Reclassify](https://www.ibm.com/support/knowledgecenter/SS3RA7_18.2.1/modeler_mainhelp_client_ddita/clementine/images/reclassifynodeicon.jpg) | Reclassify | Transforms (recodes) a set of categorical values to another. Useful for reducing categories. It can replace an existing field or create a new one. |
 | ![Restructure](https://www.ibm.com/support/knowledgecenter/SS3RA7_18.2.1/modeler_mainhelp_client_ddita/clementine/images/restructurenodeicon.jpg) | Restructure | Expands a continuous field into a series of fields, indexed by a nominal field. |
@@ -66,7 +66,7 @@ Reference: [Modeling Nodes](https://www.ibm.com/support/knowledgecenter/en/SS3RA
 
 |    | Node | Description |
 | --- | :--- | :---------- |
-| ![Auto classifier](https://www.ibm.com/support/knowledgecenter/SS3RA7_18.2.1/modeler_mainhelp_client_ddita/clementine/images/binaryclassifiernodeicon.jpg) | Auto classifier | Constructs and compares predictive models. |
+| ![Auto classifier](https://www.ibm.com/docs/en/SS3RA7_18.3.0/modeler_mainhelp_client_ddita/clementine/images/binaryclassifiernodeicon.jpg) | Auto classifier | Constructs and compares predictive models. |
 | ![Auto numeric](https://www.ibm.com/support/knowledgecenter/SS3RA7_18.2.1/modeler_mainhelp_client_ddita/clementine/images/rangepredictornodeicon.jpg) | Auto numeric |Allows comparison and creation of predictive models. |
 | ![AutoCluster ](https://www.ibm.com/support/knowledgecenter/SS3RA7_18.2.1/modeler_mainhelp_client_ddita/clementine/images/autoclusternodeicon.jpg) | AutoCluster | Automates the analysis. |
 | ![CHAID](https://www.ibm.com/docs/en/SS3RA7_18.2.2/modeler_mainhelp_client_ddita/clementine/images/chaidnodeicon.jpg) | CHAID | The CHAID node generates decision trees using chi-square statistics to identify optimal splits. |
