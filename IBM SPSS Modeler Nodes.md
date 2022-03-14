@@ -1,20 +1,21 @@
 ## Source Nodes
-Reference: [Source Nodes](https://www.ibm.com/support/knowledgecenter/en/SS3RA7_18.2.1/modeler_mainhelp_client_ddita/clementine/sourcenode_overview.html)
+Reference: [Source Nodes](https://www.ibm.com/docs/en/spss-modeler/18.3.0?topic=nodes-overview)
 
 |    | Node | Description |
 | --- | :--- | :---------- |
-| ![Excel](https://www.ibm.com/support/knowledgecenter/SS3RA7_18.2.1/modeler_mainhelp_client_ddita/clementine/images/excelimportnodeicon.jpg) | Excel | Imports data from a Microsoft Excel file (.xlsx or .xls). |
-| ![Statistics File](https://www.ibm.com/support/knowledgecenter/SS3RA7_18.2.1/modeler_mainhelp_client_ddita/clementine/images/spssfilenodeicon.jpg) | Statistics File | Reads data from an IBM SPSS Statistics file (.sav or .zsav), as well as cache files saved in IBM SPSS Modeler. |
+| ![Database](https://www.ibm.com/docs/en/SS3RA7_18.3.0/modeler_mainhelp_client_ddita/clementine/images/databasenodeicon.jpg)  | Database | Imports data from a database using ODBC (Open Database Connectivity), including Microsoft SQL Server, Db2, Oracle, and others.. |
+| ![Excel](https://www.ibm.com/docs/en/SS3RA7_18.3.0/modeler_mainhelp_client_ddita/clementine/images/excelimportnodeicon.jpg) | Excel | Imports data from a Microsoft Excel file (.xlsx or .xls). |
+| ![Statistics File](https://www.ibm.com/docs/en/SS3RA7_18.3.0/modeler_mainhelp_client_ddita/clementine/images/spssfilenodeicon.jpg) | Statistics File | Reads data from an IBM SPSS Statistics file (.sav or .zsav), as well as cache files saved in IBM SPSS Modeler. |
 | ![Variable File](https://www.ibm.com/support/knowledgecenter/SS3RA7_18.2.1/modeler_mainhelp_client_ddita/clementine/images/varfile_node_icon.jpg) | Variable File | Reads data from text files, like .csv (Comma-Separated Values) or .dat files. |
 
 
 ## Record Operations Nodes
-Reference: [Record Operations Nodes](https://www.ibm.com/support/knowledgecenter/en/SS3RA7_18.2.1/modeler_mainhelp_client_ddita/clementine/record_ops_nodes.html)
+Reference: [Record Operations Nodes](https://www.ibm.com/docs/en/spss-modeler/18.3.0?topic=nodes-overview-record-operations)
 
 |    | Node | Description |
 | --- | :--- | :---------- |
-| ![Aggregate](https://www.ibm.com/support/knowledgecenter/SS3RA7_18.2.1/modeler_mainhelp_client_ddita/clementine/images/aggregatenodeicon.jpg) | Aggregate | Summarizes info overall records. |
-| ![Append](https://www.ibm.com/support/knowledgecenter/SS3RA7_18.2.1/modeler_mainhelp_client_ddita/clementine/images/appendnodeicon.jpg) | Append | Adds records from one dataset to another (like `Union` in SQL). |
+| ![Aggregate](https://www.ibm.com/docs/en/SS3RA7_18.3.0/modeler_mainhelp_client_ddita/clementine/images/aggregatenodeicon.jpg) | Aggregate | Summarizes info overall records. |
+| ![Append](https://www.ibm.com/docs/en/SS3RA7_18.3.0/modeler_mainhelp_client_ddita/clementine/images/appendnodeicon.jpg) | Append | Adds records from one dataset to another (like `Union` in SQL). |
 | ![Distinct](https://www.ibm.com/support/knowledgecenter/SS3RA7_18.2.1/modeler_mainhelp_client_ddita/clementine/images/distinctnodeicon.jpg) | Distinct | Removes or keeps duplicate records & create a composite record. |
 | ![ Sample](https://www.ibm.com/support/knowledgecenter/SS3RA7_18.2.1/modeler_mainhelp_client_ddita/clementine/images/samplenodeicon.jpg) | Sample | Draws simple and complex samples. |
 | ![ Select](https://www.ibm.com/support/knowledgecenter/SS3RA7_18.2.1/modeler_mainhelp_client_ddita/clementine/images/select_node_icon.jpg) | Select | Selects or discards a subset of records from the data stream. |
