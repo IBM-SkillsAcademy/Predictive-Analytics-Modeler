@@ -63,11 +63,11 @@ Reference: [Output Nodes](https://www.ibm.com/support/knowledgecenter/en/SS3RA7_
 
 
 ## Modeling Nodes
-Reference: [Modeling Nodes](https://www.ibm.com/support/knowledgecenter/en/SS3RA7_18.2.1/modeler_mainhelp_client_ddita/clementine/modeling_nodes.html)
+Reference: [Modeling Nodes](https://www.ibm.com/docs/en/spss-modeler/18.3.0?topic=overview-modeling-nodes)
 
 |    | Node | Description |
 | --- | :--- | :---------- |
-| ![Auto classifier](https://www.ibm.com/docs/en/SS3RA7_18.3.0/modeler_mainhelp_client_ddita/clementine/images/binaryclassifiernodeicon.jpg) | Auto classifier | Constructs and compares predictive models. |
-| ![Auto numeric](https://www.ibm.com/support/knowledgecenter/SS3RA7_18.2.1/modeler_mainhelp_client_ddita/clementine/images/rangepredictornodeicon.jpg) | Auto numeric |Allows comparison and creation of predictive models. |
-| ![AutoCluster ](https://www.ibm.com/support/knowledgecenter/SS3RA7_18.2.1/modeler_mainhelp_client_ddita/clementine/images/autoclusternodeicon.jpg) | AutoCluster | Automates the analysis. |
-| ![CHAID](https://www.ibm.com/docs/en/SS3RA7_18.2.2/modeler_mainhelp_client_ddita/clementine/images/chaidnodeicon.jpg) | CHAID | The CHAID node generates decision trees using chi-square statistics to identify optimal splits. |
+| ![Auto Classifier](https://www.ibm.com/docs/en/SS3RA7_18.3.0/modeler_mainhelp_client_ddita/clementine/images/binaryclassifiernodeicon.jpg) | Auto classifier | Constructs and compares predictive models. |
+| ![Auto numeric](https://www.ibm.com/docs/en/SS3RA7_18.3.0/modeler_mainhelp_client_ddita/clementine/images/rangepredictornodeicon.jpg) | Auto numeric |Allows comparison and creation of predictive models. |
+| ![Auto Cluster](https://www.ibm.com/docs/en/SS3RA7_18.3.0/modeler_mainhelp_client_ddita/clementine/images/autoclusternodeicon.jpg) | AutoCluster | Automates the analysis. |
+| ![CHAID](https://www.ibm.com/docs/en/SS3RA7_18.3.0/modeler_mainhelp_client_ddita/clementine/images/chaidnodeicon.jpg) | CHAID | The CHAID node generates decision trees using chi-square statistics to identify optimal splits. |
