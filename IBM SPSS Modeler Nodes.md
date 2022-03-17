@@ -40,13 +40,14 @@ Reference: [Field Operations Nodes](https://www.ibm.com/support/knowledgecenter/
 | ![Type](https://www.ibm.com/support/knowledgecenter/SS3RA7_18.2.1/modeler_mainhelp_client_ddita/clementine/images/typenodeicon.jpg) | Type | Specifies field metadata and properties. Like the measurement level (continuous, nominal, ordinal, or flag). |
 
 ## Graphs Nodes
-Reference: [Graph Nodes](https://www.ibm.com/support/knowledgecenter/en/SS3RA7_18.2.1/modeler_mainhelp_client_ddita/clementine/graph_nodes_overview.html)
+Reference: [Graph Nodes](https://www.ibm.com/docs/en/spss-modeler/18.3.0?topic=nodes-common-graph-features)
 
 |    | Node | Description |
 | --- | :--- | :---------- |
-| ![Distribution ](https://www.ibm.com/support/knowledgecenter/SS3RA7_18.2.1/modeler_mainhelp_client_ddita/clementine/images/distributionnodeicon.jpg) | Distribution | Visualizes the relation between 2 categorical fields. |
-| ![Histogram ](https://www.ibm.com/support/knowledgecenter/SS3RA7_18.2.1/modeler_mainhelp_client_ddita/clementine/images/histogramnodeicon.jpg) | Histogram | Visualizes the relation between 1 CAT & 1 CONT. |
- 
+| ![Distribution](https://www.ibm.com/docs/en/SS3RA7_18.3.0/modeler_mainhelp_client_ddita/clementine/images/distributionnodeicon.jpg) | Distribution | Shows the occurrence of categorical values, or the relation between two categorical fields. |
+| ![Histogram](https://www.ibm.com/docs/en/SS3RA7_18.3.0/modeler_mainhelp_client_ddita/clementine/images/histogramnodeicon.jpg) | Histogram | Visualizes the relation between one categorical and one continuous. |
+| ![Plot](https://www.ibm.com/docs/en/SS3RA7_18.3.0/modeler_mainhelp_client_ddita/clementine/images/plotnodeicon.jpg) | Plot | Shows the relationship between numeric fields. |
+
 ## Output Nodes
 Reference: [Output Nodes](https://www.ibm.com/support/knowledgecenter/en/SS3RA7_18.2.1/modeler_mainhelp_client_ddita/clementine/output_nodes.html)
 
@@ -68,6 +69,6 @@ Reference: [Modeling Nodes](https://www.ibm.com/docs/en/spss-modeler/18.3.0?topi
 |    | Node | Description |
 | --- | :--- | :---------- |
 | ![Auto Classifier](https://www.ibm.com/docs/en/SS3RA7_18.3.0/modeler_mainhelp_client_ddita/clementine/images/binaryclassifiernodeicon.jpg) | Auto classifier | Constructs and compares predictive models. |
-| ![Auto numeric](https://www.ibm.com/docs/en/SS3RA7_18.3.0/modeler_mainhelp_client_ddita/clementine/images/rangepredictornodeicon.jpg) | Auto numeric |Allows comparison and creation of predictive models. |
-| ![Auto Cluster](https://www.ibm.com/docs/en/SS3RA7_18.3.0/modeler_mainhelp_client_ddita/clementine/images/autoclusternodeicon.jpg) | AutoCluster | Automates the analysis. |
-| ![CHAID](https://www.ibm.com/docs/en/SS3RA7_18.3.0/modeler_mainhelp_client_ddita/clementine/images/chaidnodeicon.jpg) | CHAID | The CHAID node generates decision trees using chi-square statistics to identify optimal splits. |
+| ![Auto Numeric](https://www.ibm.com/docs/en/SS3RA7_18.3.0/modeler_mainhelp_client_ddita/clementine/images/rangepredictornodeicon.jpg) | Auto Numeric |Allows comparison and creation of predictive models for continuous numeric outcomes (regression). |
+| ![Auto Cluster](https://www.ibm.com/docs/en/SS3RA7_18.3.0/modeler_mainhelp_client_ddita/clementine/images/autoclusternodeicon.jpg) | Auto Cluster | Estimates and compares clustering models, which identify groups of records that have similar characteristics. |
+| ![CHAID](https://www.ibm.com/docs/en/SS3RA7_18.3.0/modeler_mainhelp_client_ddita/clementine/images/chaidnodeicon.jpg) | CHAID | The CHAID node generates decision trees using chi-square statistics to identify optimal splits. Target field can be categorical or numeric field. |
