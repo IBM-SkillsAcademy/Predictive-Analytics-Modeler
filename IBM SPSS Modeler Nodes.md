@@ -29,7 +29,7 @@ Reference: [Field Operations Nodes](https://www.ibm.com/docs/en/spss-modeler/18.
 
 |    | Node | Description |
 | --- | :--- | :---------- |
-| ![Automated Data Preparation (ADP)](https://www.ibm.com/docs/en/SS3RA7_18.3.0/modeler_mainhelp_client_ddita/clementine/images/adp_node_icon.jpg) | Auto Data Prep | Can analyzes your data and identify fixes, screen out fields that are problematic or not likely to be useful, derive new attributes when appropriate, and improve performance through intelligent screening and sampling techniques. You can use the node in fully automated fashion, allowing the node to choose and apply fixes, or you can preview the changes before they are made and accept, reject, or amend them as desired. |
+| ![Automated Data Preparation (ADP)](https://www.ibm.com/docs/en/SS3RA7_18.3.0/modeler_mainhelp_client_ddita/clementine/images/adp_node_icon.jpg) | Auto Data Prep | Analyzes data and applies or recommends fixes, deriving new attributes, and sampling. |
 | ![Binning](https://www.ibm.com/docs/en/SS3RA7_18.3.0/modeler_mainhelp_client_ddita/clementine/images/binningnodeicon.jpg) | Binning | Recodes a continuous field into a nominal field. |
 | ![Derive](https://www.ibm.com/support/knowledgecenter/SS3RA7_18.2.1/modeler_mainhelp_client_ddita/clementine/images/derive_node_icon.jpg) | Derive | Creates one or more fields from one or more fields. Creates field(s) as: formula, flag, nominal, state, count, and conditional. |
 | ![Filler](https://www.ibm.com/docs/en/SS3RA7_18.3.0/modeler_mainhelp_client_ddita/clementine/images/fillernodeicon.jpg) | Filler | Replaces field values and changes storage. You can replace values based on: a CLEM condition, or to replace all blanks or null values with a specific value. |
