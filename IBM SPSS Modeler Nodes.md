@@ -24,19 +24,19 @@ Reference: [Record Operations Nodes](https://www.ibm.com/docs/en/spss-modeler/18
 | ![ Space-Time-Boxes  ](https://www.ibm.com/support/knowledgecenter/SS3RA7_18.2.1/modeler_mainhelp_client_ddita/clementine/images/spacetimenodeicon.jpg) | Space-Time-Boxes | Describes where an entity is, at what point in time, by combining a spatial grid with a time interval. |
 | ![ balancing  ](https://www.ibm.com/support/knowledgecenter/SS3RA7_18.2.1/modeler_mainhelp_client_ddita/clementine/images/balancenodeicon.jpg) | Balancing | Makes the distribution of a categorical field more equal. |
 
-
 ## Field Operations Nodes
-Reference: [Field Operations Nodes](https://www.ibm.com/support/knowledgecenter/en/SS3RA7_18.2.1/modeler_mainhelp_client_ddita/clementine/field_ops_nodes.html)
+Reference: [Field Operations Nodes](https://www.ibm.com/docs/en/spss-modeler/18.3.0?topic=nodes-field-operations-overview)
 
 |    | Node | Description |
 | --- | :--- | :---------- |
-| ![Binning](https://www.ibm.com/support/knowledgecenter/SS3RA7_18.2.1/modeler_mainhelp_client_ddita/clementine/images/binningnodeicon.jpg) | Binning | Recodes a continuous field into a nominal field. |
+| ![Automated Data Preparation (ADP)](https://www.ibm.com/docs/en/SS3RA7_18.3.0/modeler_mainhelp_client_ddita/clementine/images/adp_node_icon.jpg) | Auto Data Prep | Can analyzes your data and identify fixes, screen out fields that are problematic or not likely to be useful, derive new attributes when appropriate, and improve performance through intelligent screening and sampling techniques. You can use the node in fully automated fashion, allowing the node to choose and apply fixes, or you can preview the changes before they are made and accept, reject, or amend them as desired. |
+| ![Binning](https://www.ibm.com/docs/en/SS3RA7_18.3.0/modeler_mainhelp_client_ddita/clementine/images/binningnodeicon.jpg) | Binning | Recodes a continuous field into a nominal field. |
 | ![Derive](https://www.ibm.com/support/knowledgecenter/SS3RA7_18.2.1/modeler_mainhelp_client_ddita/clementine/images/derive_node_icon.jpg) | Derive | Creates one or more fields from one or more fields. Creates field(s) as: formula, flag, nominal, state, count, and conditional. |
 | ![Filler](https://www.ibm.com/docs/en/SS3RA7_18.3.0/modeler_mainhelp_client_ddita/clementine/images/fillernodeicon.jpg) | Filler | Replaces field values and changes storage. You can replace values based on: a CLEM condition, or to replace all blanks or null values with a specific value. |
-| ![Filter](https://www.ibm.com/support/knowledgecenter/SS3RA7_18.2.1/modeler_mainhelp_client_ddita/clementine/images/filternodeicon.jpg) | Filter | Removes and rename fields. |
+| ![Filter](https://www.ibm.com/docs/en/SS3RA7_18.3.0/modeler_mainhelp_client_ddita/clementine/images/filternodeicon.jpg) | Filter | Removes and renames fields to map them from a source to another. |
 | ![Reclassify](https://www.ibm.com/support/knowledgecenter/SS3RA7_18.2.1/modeler_mainhelp_client_ddita/clementine/images/reclassifynodeicon.jpg) | Reclassify | Transforms (recodes) a set of categorical values to another. Useful for reducing categories. It can replace an existing field or create a new one. |
 | ![Restructure](https://www.ibm.com/support/knowledgecenter/SS3RA7_18.2.1/modeler_mainhelp_client_ddita/clementine/images/restructurenodeicon.jpg) | Restructure | Expands a continuous field into a series of fields, indexed by a nominal field. |
-| ![Set to Flag](https://www.ibm.com/support/knowledgecenter/SS3RA7_18.2.1/modeler_mainhelp_client_ddita/clementine/images/settoflagnodeicon.jpg) | Set to Flag | Derives multiple flag fields based on the categorical values defined for one or more nominal fields. |
+| ![Set to Flag](https://www.ibm.com/docs/en/SS3RA7_18.3.0/modeler_mainhelp_client_ddita/clementine/images/settoflagnodeicon.jpg) | SetToFlag | Derives multiple flag fields based on the categorical values defined for one or more nominal fields. |
 | ![Type](https://www.ibm.com/support/knowledgecenter/SS3RA7_18.2.1/modeler_mainhelp_client_ddita/clementine/images/typenodeicon.jpg) | Type | Specifies field metadata and properties. Like the measurement level (continuous, nominal, ordinal, or flag). |
 
 ## Graphs Nodes
