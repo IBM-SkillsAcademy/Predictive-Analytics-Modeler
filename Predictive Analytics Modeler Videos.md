@@ -1,10 +1,12 @@
-# 0A007 - Introduction to IBM SPSS Modeler and Data Mining (v18)
+# Introduction to IBM SPSS Modeler and Data Mining (v18)
 * [IBM SPSS Modeler Demo #1: Access Data](https://youtu.be/_0YtxWUfACI)
 * [IBM SPSS Modeler Demo #2: Manipulate Data](https://youtu.be/lamDGUSBdeo)
 * [IBM SPSS Modeler Demo #3: Analyze Data](https://youtu.be/M9UVDQs_WkY)
 * [IBM SPSS Modeler Demo #4: Deploy Analysis Results](https://youtu.be/SgYnlwI0hX4)
+## Modeleing
+* [SPSS Modeler in Cloud Pak for Data as a Service](https://video.ibm.com/channel/23952663/video/ws-wml-spss-sample)
 
-# 0A057 - Advanced Data Preparation Using IBM SPSS Modeler (v18)
+# Advanced Data Preparation Using IBM SPSS Modeler (v18)
 
 # Predictive Analytics with IBM Watson Studio
 * [IBM Watson Machine Learning: Get Started in IBM Cloud](https://youtu.be/NmdjtezQMSM)
