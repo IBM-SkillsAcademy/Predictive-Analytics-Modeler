@@ -55,7 +55,7 @@ Reference: [Output Nodes](https://www.ibm.com/docs/en/spss-modeler/18.4.0?topic=
 |    | Node | Description |
 | --- | :--- | :---------- |
 | ![Data Audit](https://www.ibm.com/docs/en/SS3RA7_18.4.0/modeler_mainhelp_client_ddita/clementine/images/dataauditnodeicon.jpg) | Data Audit | Provides a comprehensive first look at the data, summary statistics, histograms. |
-| ![Matrix](https://www.ibm.com/docs/en/SS3RA7_18.4.0/modeler_mainhelp_client_ddita/clementine/images/matrixnodeicon.jpg) | Matrix |  Creates a table that shows relationships between 2 categorical fields. |
+| ![Matrix](https://www.ibm.com/docs/en/SS3RA7_18.4.0/modeler_mainhelp_client_ddita/clementine/images/matrixnodeicon.jpg) | [Matrix](https://www.ibm.com/docs/en/spss-modeler/18.4.0?topic=nodes-matrix-node) |  Creates a table that shows relationships between 2 categorical fields. See [Matrix node output browser](https://www.ibm.com/docs/en/spss-modeler/18.4.0?topic=node-matrix-output-browser) for Chi-square. |
 | ![Means](https://www.ibm.com/docs/en/SS3RA7_18.4.0/modeler_mainhelp_client_ddita/clementine/images/meansnodeicon.jpg) | Means | Visualizes the relation between 1 categorical field & 1 continuous field. |
 | ![Statistics](https://www.ibm.com/docs/en/SS3RA7_18.4.0/modeler_mainhelp_client_ddita/clementine/images/statisticsnodeicon.jpg) | Statistics | Provides basic summary information about numeric fields. |
 | ![Table](https://www.ibm.com/docs/en/SS3RA7_18.4.0/modeler_mainhelp_client_ddita/clementine/images/table_node_icon.jpg) | Table | Displays the data in a table format, which can also be written to a file. |
