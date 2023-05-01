@@ -1,7 +1,8 @@
 # [Predictive-Analytics-Modeler Career Path](https://keyskill-clms.comprehend.ibm.com/course/view.php?id=497)
-## Course 1: Introduction to A Predictive Analytics Platform & Data Mining (0A007)
-## Course 2: Advanced Data Preparation (0A057)
-## Course 3: Predictive Analytics with IBM Watson Studio
+## Course 3: Introduction to A Predictive Analytics Platform & Data Mining (0A007)
+## Course 4: Advanced Data Preparation (0A057)
+* [IBM SPSS Modeler Nodes](IBM%20SPSS%20Modeler%20Nodes.md)
+## Course 5: Predictive Analytics with IBM Watson Studio
 ### Unit 1. Introduction to IBM Watson Studio
 * Exercise 1: Use this notebook: [DecisionTreeSimple.ipynb](https://github.com/IBM-SkillsAcademy/artificial-intelligence-analyst/blob/master/ex03/DecisionTreeSimple.ipynb)
 ### Unit 2. Introduction to IBM Watson Machine Learning
