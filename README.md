@@ -12,4 +12,5 @@
 * Additional resources:
   * [AutoAI implementation details](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/autoai-details.html)
 ### Unit 3. Introduction to neural networks and deep learning
+* Exercise 3: https://github.com/IBM-SkillsAcademy/artificial-intelligence-analyst/blob/master/ex05/Use%20scikit-learn%20to%20recognize%20hand-written%20digits.ipynb
 ### Unit 4. IBM Watson Studio Jobs
