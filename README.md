@@ -5,6 +5,7 @@
 ## Course 5: Predictive Analytics with IBM Watson Studio
 ### Unit 1. Introduction to IBM Watson Studio
 * Exercise 1: Use this notebook: [DecisionTreeSimple.ipynb](https://github.com/IBM-SkillsAcademy/artificial-intelligence-analyst/blob/master/ex03/DecisionTreeSimple.ipynb)
+
 ### Unit 2. Introduction to IBM Watson Machine Learning
 * Exercise 2: Use the following data sets:
   * Part 1: [airline-data.csv](5.%20Predictive%20Analytics%20with%20IBM%20Watson%20Studio/airline-data.csv)
@@ -14,3 +15,8 @@
 ### Unit 3. Introduction to neural networks and deep learning
 * Exercise 3: https://github.com/IBM-SkillsAcademy/artificial-intelligence-analyst/blob/master/ex05/Use%20scikit-learn%20to%20recognize%20hand-written%20digits.ipynb
 ### Unit 4. IBM Watson Studio Jobs
+
+### Markdown References
+* [Markdown Cells](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html) - readthedocs.io
+* [Markdown for Jupyter notebooks cheatsheet](https://www.ibm.com/docs/en/watson-studio-local/1.2.3?topic=notebooks-markdown-jupyter-cheatsheet) - IBM Docs
+* [Getting started with writing and formatting on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github) - GitHub.com
